@@ -51,8 +51,13 @@
 #
 ### My Github Stats:
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
+  
+  
+### NASA Boarding Pass:
 <div align="center">
   <img src="https://github.com/shivpvtel/shivpvtel/blob/main/BoardingPass_MyNameOnFutureMission.png" width="980" height="410" />
  </div>
