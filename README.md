@@ -26,7 +26,7 @@
   - Minors in Math, Astrophysics and Planetary Science
 - Currently a Research Assistant with the [McEntaffer Rocket Group](https://www.mcentaffergroup.psu.edu) at Penn state
   - My main focus is on the telemetry system as well as data processing
-- In my free time, I spend most of time doing [Photography and Astrophotography](https://vsco.co/shivpvtel/gallery/).
+- In my free time, I spend most of time doing [Photography](https://vsco.co/shivpvtel/gallery/).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shivpvtel/)
 
 
