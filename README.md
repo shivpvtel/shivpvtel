@@ -58,12 +58,14 @@
   
   
 ### NASA Boarding Pass:
-<div align="center">
-  <img src="https://github.com/shivpvtel/shivpvtel/blob/main/BoardingPass_MyNameOnFutureMission.png" width="980" height="410" />
+<div align="left">
+  <img src="https://github.com/shivpvtel/shivpvtel/blob/main/BoardingPass_MyNameOnFutureMission.png" width="490" height="205" />
  </div>
-
-               
 <!--
+//curl --request GET --url 'https://publish.twitter.com/oembed?url=https%3A%2F%2Ftwitter.com%2FInterior%2Fstatus%2F507185938620219395'
+twurl -H publish.twitter.com "/oembed?url=https://twitter.com/Interior/status/463440424141459456"
+               
+
 **shivpvtel/shivpvtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -79,4 +81,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a class="twitter-timeline" href="https://twitter.com/shivpvtel?ref_src=twsrc%5Etfw">Tweets by shivpvtel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
